@@ -1,0 +1,8 @@
+Installation
+
+Run install.sh to ensure all the prerequesites are installed. 
+
+Running
+
+type 'python <install-dir>/src/pitube/PiTube.py
+
